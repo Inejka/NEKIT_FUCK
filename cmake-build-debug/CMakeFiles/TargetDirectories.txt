@@ -1,0 +1,3 @@
+/home/inejka/CLionProjects/NEKIT_FUCK/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/inejka/CLionProjects/NEKIT_FUCK/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/inejka/CLionProjects/NEKIT_FUCK/cmake-build-debug/CMakeFiles/NEKIT_FUCK.dir

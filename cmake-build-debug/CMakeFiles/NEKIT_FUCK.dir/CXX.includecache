@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/inejka/CLionProjects/NEKIT_FUCK/bin_tree.h
+iostream
+-
+
+/home/inejka/CLionProjects/NEKIT_FUCK/fucking_tree.h
+iostream
+-
+
+/home/inejka/CLionProjects/NEKIT_FUCK/main.cpp
+iostream
+-
+bin_tree.h
+/home/inejka/CLionProjects/NEKIT_FUCK/bin_tree.h
+fucking_tree.h
+/home/inejka/CLionProjects/NEKIT_FUCK/fucking_tree.h
+

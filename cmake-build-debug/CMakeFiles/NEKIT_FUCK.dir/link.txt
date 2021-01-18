@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/NEKIT_FUCK.dir/main.cpp.o  -o NEKIT_FUCK 
